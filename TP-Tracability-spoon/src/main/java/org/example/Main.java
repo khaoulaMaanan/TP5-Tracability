@@ -27,6 +27,7 @@ public class Main {
         launcher.addProcessor(new CatchProcessor());
         launcher.addProcessor(new ForProcessor());
         launcher.addProcessor(new TryProcessor());
+        launcher.addProcessor(new IFProcessor());
         ProfileProcessor.fromXmlToJson();
         ProfileProcessor.getRecords();
 
