@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-21T18:38:16.704406700Z</date>
+  <millis>1671647896704</millis>
+  <nanos>406700</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Repository</logger>
+  <level>SEVERE</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":0, "UserEmail":"null","msg": "Produit non existant" }</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:16.745398200Z</date>
+  <millis>1671647896745</millis>
+  <nanos>398200</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>addProduct</method>
+  <thread>1</thread>
+  <message>{ "UserId":0, "UserEmail":"null", "ProductId":1}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:16.746398600Z</date>
+  <millis>1671647896746</millis>
+  <nanos>398600</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.Repository</logger>
+  <level>SEVERE</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":0, "UserEmail":"null","msg": "Produit non existant" }</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:16.747398200Z</date>
+  <millis>1671647896747</millis>
+  <nanos>398200</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>addProduct</method>
+  <thread>1</thread>
+  <message>{ "UserId":0, "UserEmail":"null", "ProductId":2}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:16.747398200Z</date>
+  <millis>1671647896747</millis>
+  <nanos>398200</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.Repository</logger>
+  <level>SEVERE</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":0, "UserEmail":"null","msg": "Produit non existant" }</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:16.747398200Z</date>
+  <millis>1671647896747</millis>
+  <nanos>398200</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>addProduct</method>
+  <thread>1</thread>
+  <message>{ "UserId":0, "UserEmail":"null", "ProductId":3}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:16.748399Z</date>
+  <millis>1671647896748</millis>
+  <nanos>399000</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.Repository</logger>
+  <level>SEVERE</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":0, "UserEmail":"null","msg": "Produit non existant" }</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:16.749398800Z</date>
+  <millis>1671647896749</millis>
+  <nanos>398800</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>addProduct</method>
+  <thread>1</thread>
+  <message>{ "UserId":0, "UserEmail":"null", "ProductId":4}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:16.749398800Z</date>
+  <millis>1671647896749</millis>
+  <nanos>398800</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.Repository</logger>
+  <level>SEVERE</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":0, "UserEmail":"null","msg": "Produit non existant" }</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:16.750398400Z</date>
+  <millis>1671647896750</millis>
+  <nanos>398400</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>addProduct</method>
+  <thread>1</thread>
+  <message>{ "UserId":0, "UserEmail":"null", "ProductId":5}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.626761200Z</date>
+  <millis>1671647903626</millis>
+  <nanos>761200</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>displayAllProducts</method>
+  <thread>1</thread>
+  <message>{ "UserId":1,"UserEmail": "rihab@gmail.com"}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.639760300Z</date>
+  <millis>1671647903639</millis>
+  <nanos>760300</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":1, "UserEmail":"rihab@gmail.com", "ProductId":1}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.639760300Z</date>
+  <millis>1671647903639</millis>
+  <nanos>760300</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.Repository</logger>
+  <level>SEVERE</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":1, "UserEmail":"rihab@gmail.com","msg": "Produit non existant" }</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.639760300Z</date>
+  <millis>1671647903639</millis>
+  <nanos>760300</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>addProduct</method>
+  <thread>1</thread>
+  <message>{ "UserId":1, "UserEmail":"rihab@gmail.com", "ProductId":8}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.640760500Z</date>
+  <millis>1671647903640</millis>
+  <nanos>760500</nanos>
+  <sequence>14</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>displayAllProducts</method>
+  <thread>1</thread>
+  <message>{ "UserId":2,"UserEmail": "khaoula@gmail.com"}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.641760600Z</date>
+  <millis>1671647903641</millis>
+  <nanos>760600</nanos>
+  <sequence>15</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":2, "UserEmail":"khaoula@gmail.com", "ProductId":1}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.642761200Z</date>
+  <millis>1671647903642</millis>
+  <nanos>761200</nanos>
+  <sequence>16</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>deleteProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":2, "UserEmail":"khaoula@gmail.com", "ProductId":1}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.642761200Z</date>
+  <millis>1671647903642</millis>
+  <nanos>761200</nanos>
+  <sequence>17</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>fetchExpensiveProducts</method>
+  <thread>1</thread>
+  <message>{ "UserId":3, "UserEmail":"kai@gmail.com", "ProductId":2}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.642761200Z</date>
+  <millis>1671647903642</millis>
+  <nanos>761200</nanos>
+  <sequence>18</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>fetchExpensiveProducts</method>
+  <thread>1</thread>
+  <message>{ "UserId":3, "UserEmail":"kai@gmail.com", "ProductId":8}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.643761900Z</date>
+  <millis>1671647903643</millis>
+  <nanos>761900</nanos>
+  <sequence>19</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com", "ProductId":2}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.643761900Z</date>
+  <millis>1671647903643</millis>
+  <nanos>761900</nanos>
+  <sequence>20</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com", "ProductId":2}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.643761900Z</date>
+  <millis>1671647903643</millis>
+  <nanos>761900</nanos>
+  <sequence>21</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>deleteProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com", "ProductId":2}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.643761900Z</date>
+  <millis>1671647903643</millis>
+  <nanos>761900</nanos>
+  <sequence>22</sequence>
+  <logger>org.example.Repository</logger>
+  <level>SEVERE</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com","msg": "Produit non existant" }</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.644760500Z</date>
+  <millis>1671647903644</millis>
+  <nanos>760500</nanos>
+  <sequence>23</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>addProduct</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com", "ProductId":2}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.644760500Z</date>
+  <millis>1671647903644</millis>
+  <nanos>760500</nanos>
+  <sequence>24</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>updateProduct</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com", "ProductId":2}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.644760500Z</date>
+  <millis>1671647903644</millis>
+  <nanos>760500</nanos>
+  <sequence>25</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com", "ProductId":3}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.645760400Z</date>
+  <millis>1671647903645</millis>
+  <nanos>760400</nanos>
+  <sequence>26</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com", "ProductId":3}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.645760400Z</date>
+  <millis>1671647903645</millis>
+  <nanos>760400</nanos>
+  <sequence>27</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>deleteProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com", "ProductId":3}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.645760400Z</date>
+  <millis>1671647903645</millis>
+  <nanos>760400</nanos>
+  <sequence>28</sequence>
+  <logger>org.example.Repository</logger>
+  <level>SEVERE</level>
+  <class>org.example.Repository</class>
+  <method>fetchProductByID</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com","msg": "Produit non existant" }</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.645760400Z</date>
+  <millis>1671647903645</millis>
+  <nanos>760400</nanos>
+  <sequence>29</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>addProduct</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com", "ProductId":3}</message>
+</record>
+<record>
+  <date>2022-12-21T18:38:23.646760300Z</date>
+  <millis>1671647903646</millis>
+  <nanos>760300</nanos>
+  <sequence>30</sequence>
+  <logger>org.example.Repository</logger>
+  <level>INFO</level>
+  <class>org.example.Repository</class>
+  <method>updateProduct</method>
+  <thread>1</thread>
+  <message>{ "UserId":4, "UserEmail":"jc@gmail.com", "ProductId":3}</message>
+</record>
+</log>

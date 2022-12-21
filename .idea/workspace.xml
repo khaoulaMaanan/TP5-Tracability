@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63e9ebdd-ce1c-4f1c-b037-bd77ea04229b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ProjetExtractInterface/TP-Tracibility/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2-Restructuration-Logiciels/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP-Tracability-spoon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP-Tracability-spoon/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP-Tracability-spoon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP-Tracability-spoon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP-Tracability-spoon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP-Tracability-spoon/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/src/main/java/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/src/main/java/models/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/src/main/java/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/src/main/java/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/src/main/java/org/example/DatabaseConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/src/main/java/repository/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/src/main/java/org/example/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/src/main/java/repository/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/target/classes/models/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/target/classes/models/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/target/classes/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/target/classes/models/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/target/classes/org/example/DatabaseConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability - Copie/target/classes/org/example/Repository.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability - Copie/target/classes/org/example/Repository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/src/main/java/exceptions/ProductAlreadyExistsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/src/main/java/exceptions/ProductNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/src/main/java/models/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/src/main/java/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/src/main/java/org/example/DatabaseConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/src/main/java/org/example/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/target/classes/exceptions/ProductAlreadyExistsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/target/classes/exceptions/ProductNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/target/classes/models/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/target/classes/models/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/target/classes/org/example/DatabaseConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability-spoon/spooned/target/classes/org/example/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability/src/main/java/org/example/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability/src/main/java/org/example/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Tracability/target/classes/org/example/Repository.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Tracability/target/classes/org/example/Repository.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TP-Tracability" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JDjMBAhTt9CcSSjnLppo6BDzmv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/khaou/M2-GL/Evolution-Restruturation-des-logiciels/TP5/TP-Tracability",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63e9ebdd-ce1c-4f1c-b037-bd77ea04229b" name="Changes" comment="" />
+      <created>1671619499144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671619499144</updated>
+      <workItem from="1671619500779" duration="2881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
