@@ -17,11 +17,9 @@ public class IFProcessor extends AbstractProcessor<CtIf> {
 
     @Override
     public void process(CtIf ctIf) {
-        System.out.println("if0");
         if (this.getMethod(ctIf).getSimpleName().equals("fetchExpensiveProducts")) {
-            System.out.println("if1");
-            CtCodeSnippetStatement logMsgStatement = this.getFactory().Code().createCodeSnippetStatement("LOGGER.log(Level.INFO,\"{ \"UserId\":\"+Main.getCurrentUser().getID()+\", \"UserEmail\":\"\"+Main.getCurrentUser().getEmail()+\"\", \"ProductId\":\"+product.getID()+ \"}\")" +
-                    "expensiveProducts.add(product)");
+            CtCodeSnippetStatement logMsgStatement = this.getFactory().Code().createCodeSnippetStatement("LOGGER.log(Level.INFO,\"{ \"UserId\":\"+Main.getCurrentUser().getID()+\", \"UserEmail\":\"\"+Main.getCurrentUser().getEmail()+\"\", \"ProductId\":\"+product.getID()+ \"}\");\n" +
+                    "                expensiveProducts.add(product)");
             ctIf.setThenStatement(logMsgStatement);
         }
     }

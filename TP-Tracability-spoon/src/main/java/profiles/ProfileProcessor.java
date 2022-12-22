@@ -24,7 +24,7 @@ public class ProfileProcessor {
         JSONObject xmlJSONObj = null;
         try {
             FileInputStream fis = null;
-            String xmlContent = readFile("C:\\Users\\khaou\\M2-GL\\Evolution-Restruturation-des-logiciels\\TP5\\TP-Tracability\\Repository.log", StandardCharsets.UTF_8);
+            String xmlContent = readFile("../TP-Tracability/Repository.log", StandardCharsets.UTF_8);
             xmlJSONObj= XML.toJSONObject(xmlContent);
         } catch (JSONException je) {
             System.out.println(je.toString());

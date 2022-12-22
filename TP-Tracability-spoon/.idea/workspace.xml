@@ -7,6 +7,15 @@
     <list default="true" id="25b1d373-f267-4651-a2fa-91e280f5264d" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../ProjetExtractInterface/TP-Tracibility/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TP2-Restructuration-Logiciels/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/profiles/ProfileProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/profiles/ProfileProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/processors/IFProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/processors/IFProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/profiles/ProfileProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/profiles/ProfileProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP-Tracability/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP-Tracability/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="4d435941-f602-4899-b30c-ba76d25ce6fa" name="Changes by Lenovo" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/processors/IFProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/processors/IFProcessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -78,7 +87,8 @@
       <updated>1671479491592</updated>
       <workItem from="1671479492830" duration="2178000" />
       <workItem from="1671532186477" duration="3216000" />
-      <workItem from="1671619520448" duration="17114000" />
+      <workItem from="1671619520448" duration="18714000" />
+      <workItem from="1671743382020" duration="1052000" />
     </task>
     <servers />
   </component>

@@ -115,7 +115,8 @@ public class Repository {
         List<Product> expensiveProducts = new ArrayList<>();
         for (Product product : products) {
             if (product.getPrice() >= 10)
-                LOGGER.log(Level.INFO,"{ "UserId":"+Main.getCurrentUser().getID()+", "UserEmail":""+Main.getCurrentUser().getEmail()+"", "ProductId":"+product.getID()+ "}")expensiveProducts.add(product);
+                LOGGER.log(Level.INFO,"{ "UserId":"+Main.getCurrentUser().getID()+", "UserEmail":""+Main.getCurrentUser().getEmail()+"", "ProductId":"+product.getID()+ "}");
+                                expensiveProducts.add(product);
 
         }
         return expensiveProducts;

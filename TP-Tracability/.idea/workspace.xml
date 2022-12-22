@@ -5,11 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1eaeb90a-ee93-42a9-a00a-6e104a58bf92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Repository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Repository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Repository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP-Tracability-spoon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/ProductAlreadyExistsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/ProductNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/exceptions/ProductAlreadyExistsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/exceptions/ProductNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/models/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/repository/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/repository/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/target/classes/exceptions/ProductAlreadyExistsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/target/classes/exceptions/ProductNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/target/classes/models/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/target/classes/models/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/target/classes/org/example/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/spooned/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/src/main/java/processors/IFProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TP-Tracability-spoon/src/main/java/processors/IFProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/src/main/java/profiles/ProfileProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TP-Tracability-spoon/src/main/java/profiles/ProfileProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/target/classes/processors/IFProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP-Tracability-spoon/target/classes/processors/IFProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP-Tracability-spoon/target/classes/profiles/ProfileProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP-Tracability-spoon/target/classes/profiles/ProfileProcessor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +48,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,7 +101,9 @@
       <workItem from="1671458138427" duration="15693000" />
       <workItem from="1671617858023" duration="1262000" />
       <workItem from="1671646067802" duration="1671000" />
-      <workItem from="1671647780410" duration="747000" />
+      <workItem from="1671647780410" duration="2146000" />
+      <workItem from="1671710161064" duration="613000" />
+      <workItem from="1671743370062" duration="609000" />
     </task>
     <servers />
   </component>
